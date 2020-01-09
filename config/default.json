@@ -1,0 +1,9 @@
+{
+  "jwtSecretKey": "",
+  "db": "mongodb://localhost/addenda",
+  "port": "4400",
+  "pagination": {
+    "pageSize": 5,
+    "pageNumber": 1
+  }
+}
