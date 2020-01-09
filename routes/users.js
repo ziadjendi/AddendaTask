@@ -11,7 +11,6 @@ router.post(
     if (error) return res.status(400).send(error);
 
     let user = await User.findOne({ email: req.body.email });
-    console.log(user);
     if (user)
       return res.status(400).send("This email already exist in our Database");
 
