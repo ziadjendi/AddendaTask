@@ -21,6 +21,6 @@ node .
 
 4. Update a contact: call http://localhost:port/api/contacts/ with put method and payload  {"name":"new friend","phone":"123456778"}
 
-5. Get all contacts under a logged in user: call http://localhost:prot/api/contacts with get method or with query string pageSize=10&pageNumber=1
+5. Get all contacts under a logged in user: call http://localhost:prot/api/contacts with get method also you can use a query string pageSize=10&pageNumber=1
 
 - Note: default pageSize & pageNumber in config/default.json file.
