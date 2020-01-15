@@ -1,5 +1,5 @@
 {
-  "name": "AddendaTask",
+  "name": "PhoneBook",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ziadjendi/AddendaTask.git"
+    "url": "git+https://github.com/ziadjendi/PhoneBook.git"
   },
   "keywords": [],
   "author": "Ziad Jendi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ziadjendi/AddendaTask/issues"
+    "url": "https://github.com/ziadjendi/PhoneBook/issues"
   },
-  "homepage": "https://github.com/ziadjendi/AddendaTask#readme",
+  "homepage": "https://github.com/ziadjendi/PhoneBook#readme",
   "dependencies": {
     "@hapi/joi": "^17.0.0",
     "bcrypt": "^3.0.7",
